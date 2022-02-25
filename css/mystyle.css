@@ -1,0 +1,46 @@
+body{
+	background-image: url("../pictures/Background.jpg");
+	background-repeat: no-repeat;
+	background-position: left top;
+	margin-right: 200px;
+	background-attachment: scroll ;
+	min-height: 1300px;
+}
+h1.one{
+	border-left-style: solid;
+	border-left-width:12px;
+	color: rgba(1,1,1,0.7);
+	margin-right: 50px;
+	font-size: 80px;
+}
+pre.two{
+	margin-left: 150px;
+	font-size: 50px;
+	border-left-style: solid;
+	border-left-width:12px;
+	color: rgba(1,1,1,0.5);
+}
+p.three{
+	margin-left: 400px;
+	font-size: 30px;
+	color: rgba(1,1,1,0.7);
+	border-left-style: solid;
+	border-left-width:12px;
+}
+span.five{
+	font-size: 60px;
+	color: #525252;
+	white-space:nowrap;
+}
+span.six{
+	font-size: 30px;
+	color: #626262;
+	white-space:nowrap;
+}
+p.seven{
+	border-left-style:solid;
+	border-color: darkblue;
+	border-width: 10px;
+}
+@media screen{
+}

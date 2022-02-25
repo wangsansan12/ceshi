@@ -1,0 +1,75 @@
+body{
+	background-color: beige;
+}
+pre.one{
+    border-left-style: solid;
+    border-left-width: 12px;
+    color: rgba(1,1,1,0.7);
+    margin-right: 50px;
+    font-size: 50px;
+}
+p.two{
+	border-left-style: solid;
+	border-color: #696969;
+	border-width: 10px;
+}
+div.three{
+	height: 100px;
+	color: #494949;
+	outline-width: 10px;
+}
+a.poi:link{
+	background-color: #d3f45c;
+	color: gray;
+	margin-left: 15px;
+	padding: 15px 25px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 15px;
+	display: inline-block;
+	background: url(../pictures/lv%20bantou.png);
+}
+a.poi:visited {
+  background-color: #d3f45c;
+	color: gray;
+	margin-left: 15px;
+	padding: 15px 25px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 15px;
+	display: inline-block;
+	background: url(../pictures/lv%20bantou.png);
+}
+a.poi:active {
+  background-color: red;
+}
+a.poi:hover{
+	background-color: #d3f45c;
+	opacity: 0.5;
+	color: red;
+	margin-left: 0px;
+	padding: 15px 45px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 15px;
+	display: inline-block;
+	background: url(../pictures/lan%20bantou.png);
+}
+a.back1:link{
+	padding: 15px 25px;
+	display: inline-block;
+	background: url(../pictures/lv%20bantou.png);
+}
+img.six{
+	opacity: 0.5;
+}
+img.six:hover{
+	opacity: 1.0;
+}
+a.qwe{
+	opacity: 0.5;
+}
+a.qwe:hover{
+	opacity: 1.0;
+	color: aqua;
+}
